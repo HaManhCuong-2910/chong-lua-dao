@@ -10,13 +10,13 @@ module.exports = {
   ],
   theme: {
     container: {
-      // screens: {
-      //   sm: "450px",
-      //   md: "450px",
-      //   lg: "580px",
-      //   xl: "580px",
-      //   "2xl": "700px",
-      // },
+      screens: {
+        sm: "670px",
+        md: "670px",
+        lg: "670px",
+        xl: "670px",
+        "2xl": "670px",
+      },
     },
     extend: {},
   },
