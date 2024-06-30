@@ -1,6 +1,6 @@
 <template>
   <div class="mt-1">
-    <p class="text-base">
+    <p class="text-base px-4 lg:px-0">
       Bấm vào nhóm Tele:
       <a
         href="https://t.me/tomorow"

@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
     <img src="/imgs/a1.jpg" alt="ảnh" />
-    <p class="text-base mt-4">
+    <p class="text-base mt-4 px-4 lg:px-0">
       𝐇Ỗ 𝐓𝐑Ợ 𝐋Ấ𝐘 𝐋Ạ𝐈 𝐓𝐈Ề𝐍 𝐓𝐑𝐄𝐎 𝐓𝐑Ê𝐍 𝐌Ọ𝐈 𝐍Ề𝐍 𝐓Ả𝐍𝐆 !!! <br />
       ✅ Thu hồi tiền chuyển nhầm qua SỐ TÀI KHOẢN. <br />
       ✅ Thu hồi tiền kẹt trong các app, sàn chứng khoán , nhiệm vụ shoppe ,
