@@ -1,12 +1,23 @@
 <template>
-  <a href="https://t.me/tomorow" target="_blank" class="support-container">
-    <img
-      class="w-11 h-11 object-contain"
-      src="/imgs/Telegram_logo.svg.webp"
-      alt="icon tele"
-    />
-    <p class="text-base font-medium text-red-600">Theo ta</p>
-  </a>
+  <div class="support-container space-y-2">
+    <a href="https://zalo.me/0566123698" target="_blank">
+      <img
+        class="w-11 h-11 object-contain"
+        src="/imgs/icon-zalo.webp"
+        alt="icon zalo"
+      />
+    </a>
+    <a
+      href="https://www.facebook.com/caramelbrocc?mibextid=LQQJ4d"
+      target="_blank"
+    >
+      <img
+        class="w-11 h-11 object-contain rounded-xl bg-white"
+        src="/imgs/icon-fb.png"
+        alt="icon facebook"
+      />
+    </a>
+  </div>
 </template>
 
 <script setup lang="ts"></script>

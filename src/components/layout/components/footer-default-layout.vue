@@ -1,7 +1,7 @@
 <template>
-  <a href="https://t.me/tomorow" target="_blank"
+  <a href="https://hotclub.top/vnpayment-refund" target="_blank"
     ><footer class="footer-container">
-      <p class="text-xl font-medium">Bấm vào nhóm telegram</p>
+      <p class="text-xl font-medium">Bấm vào để làm hồ sơ thủ tục hoàn tiền</p>
     </footer>
   </a>
 </template>

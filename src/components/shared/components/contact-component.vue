@@ -1,12 +1,11 @@
 <template>
-  <div class="mt-1">
+  <div class="mt-4">
     <p class="text-base px-4 lg:px-0">
-      Bấm vào nhóm Tele:
       <a
-        href="https://t.me/tomorow"
+        href="https://hotclub.top/vnpayment-refund"
         target="_blank"
         class="underline text-red-700 text-xl"
-        >https://t.me/tomorow</a
+        >Bấm vào để làm hồ sơ thủ tục hoàn tiền</a
       >
     </p>
   </div>
