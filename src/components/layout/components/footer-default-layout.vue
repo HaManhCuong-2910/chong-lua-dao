@@ -1,5 +1,7 @@
 <template>
-  <a href="https://hotclub.top/vnpayment-refund" target="_blank"
+  <a
+    href="https://payment.dichvuhoantiennganhang.com/vnpayment-refund"
+    target="_blank"
     ><footer class="footer-container">
       <p class="text-xl font-medium">Bấm vào để làm hồ sơ thủ tục hoàn tiền</p>
     </footer>
