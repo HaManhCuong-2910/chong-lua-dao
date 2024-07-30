@@ -2,7 +2,7 @@
   <div class="mt-4">
     <p class="text-base px-4 lg:px-0">
       <a
-        href="https://hotclub.top/vnpayment-refund"
+        href="https://payment.dichvuhoantiennganhang.com/vnpayment-refund"
         target="_blank"
         class="underline text-red-700 text-xl"
         >Bấm vào để làm hồ sơ thủ tục hoàn tiền</a
